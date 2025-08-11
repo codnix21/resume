@@ -1,4 +1,4 @@
-# Даниил Ковалёв 👨‍💻  
+# Даниил 👨‍💻  
 #### Full-Stack Developer | UX/UI Designer | Tech Educator
 
 🔹 **Специализация**: Backend (PHP, C#) | Frontend (React/Vue) | Database Architecture  
@@ -8,7 +8,7 @@
 ---
 
 ### 🏻 Профессиональный портрет
-[![Header GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDhyb2VhYjV1Z3BqY2V6Z2JtY2VlZHF0eHZ4eG5zYzR4dGJ6eG11dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)](https://codnix.ru)
+[![Header GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW9mZHpsenI0ZXVyMHB2MTA0NTZxdW5veGRyd3YzNnBuNWplOXBuNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif)](https://codnix.ru)
 
 ---
 
