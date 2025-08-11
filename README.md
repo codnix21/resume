@@ -1,4 +1,4 @@
-# Даниил 👨‍💻  
+# Codnix 👨‍💻  
 #### Full-Stack Developer | UX/UI Designer | Tech Educator
 
 🔹 **Специализация**: Backend (PHP, C#) | Frontend (React/Vue) | Database Architecture  
