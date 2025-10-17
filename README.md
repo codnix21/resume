@@ -27,7 +27,7 @@
 ---
 
 ### 📈 GitHub Активность
-[![GitHub Streak](https://streak-stats.demolab.com?user=death429&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=codnix21&theme=dark)](https://git.io/streak-stats)
 
 ---
 
