@@ -19,7 +19,7 @@
 | C# ![C#]      | Vue ![Vue]    | PostgreSQL    | Docker ![Docker] |
 | Python ![Python]| JavaScript ![JS] | Firebase    | Figma ![Figma] |
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=death429&layout=compact&theme=radical)](https://github.com/death429)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codnix21&layout=compact&theme=radical)](https://github.com/codnix21)
 
 ---
 
