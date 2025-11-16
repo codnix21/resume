@@ -1,9 +1,8 @@
 # Codnix 👨‍💻  
-#### Full-Stack Developer | UX/UI Designer | Tech Educator
+#### Full-Stack Developer | UX/UI Designer |
 
 🔹 **Специализация**: Backend (PHP, C#) | Frontend (React/Vue) | Database Architecture  
 🔹 **Фриланс**: 50+ проектов | 100% satisfaction rate  
-🔹 **Преподавание**: Основы БД в Техникуме (2024-н.в.)
 
 ---
 
