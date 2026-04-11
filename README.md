@@ -32,5 +32,5 @@
 
 ### 📮 Контактная информация
 [![Website](https://img.shields.io/badge/-Portfolio-FF7139?style=flat-square&logo=Google-Chrome&logoColor=white)](https://resume.codnix.ru)
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram)](https://t.me/gucci2134)
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram)](https://t.me/NetCoreVPS)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail)](mailto:admin@codnix.ru)
